@@ -18,7 +18,7 @@ Scan whitespace (returns string but mostly useless):
 
     閱一白。噫。
 
-Scan whitespace terminated word:
+Scan whitespace-terminated word:
 
     閱一言。名之曰「寅」。
 
