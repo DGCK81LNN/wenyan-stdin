@@ -14,7 +14,7 @@ Read character:
 
     閱一字。名之曰「丑」。
 
-Scan whitespace (returns nothing):
+Scan whitespace (returns string but mostly useless):
 
     閱一白。噫。
 
