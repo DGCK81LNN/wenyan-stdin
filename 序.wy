@@ -17,6 +17,7 @@
       夫「器」。名之曰「舊器」。
       夫「舊器」之長。加其以一千零二十四。施「Buffer.alloc」於其。昔之「器」者。今其是矣。
       施「(n=>o=>n.set(o))」於「器」於「舊器」。
+      昔之「舊器」者。今「null」是矣。
     云云。
     施「(sup=>sub=>len=>sup.subarray(len-sub.length,len).equals(sub))」於「器」於「行尾」於「器容」。
     若其然者乃止也。
