@@ -4,6 +4,12 @@ Reads stdin.
 
 # Usage
 
+Install with [wyg](https://github.com/wenyan-lang/wyg):
+
+    wyg install stdin
+
+Import:
+
     吾嘗觀『閱文秘術』之書。方悟「閱行」「閱字」「閱白」「閱言」「閱數」「閱畢乎」之義。
 
 Read line (returns string including EOL):
