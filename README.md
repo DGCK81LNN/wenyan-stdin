@@ -1,6 +1,6 @@
 # 閱文秘術 stdin
 
-Reads stdin.
+Synchronously scan stdin.
 
 # Usage
 
